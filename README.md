@@ -1,2 +1,2 @@
-# JogoFada
-Jogo iniciado para aula do aluno Vitor, aula 47.
+# BaseParaJogo
+Aqui se encontra algumas bibliotecas da p5 para jogo de rolagem infinita
